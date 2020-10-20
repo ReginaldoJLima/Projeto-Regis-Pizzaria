@@ -21,6 +21,8 @@
   oi
 </div>
 
+Q nada!!
+.. que nada é peixe..
 
 <div class="card text-white bg-warning mb-3" style="width: 18rem;">
   <img class="htt" src=".../100px180/" alt="Imagem de capa do card">
