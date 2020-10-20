@@ -1,6 +1,6 @@
 <!-- Banner imagem fixa sobre-->
 <div class="container-fluide text-center">
-  <img src="http://placehold.it/1400x300" alt="">
+  <img src="http://placehold.it/1700x300" alt="">
 </div>
 
 <!-- Texto e imagem da historia da empresa-->
