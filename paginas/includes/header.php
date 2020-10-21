@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="public/css/icomoom.css">
 
   <!-- Meu css -->
-  <link rel="stylesheet" href="public/css/meustylo.css">
+  <link rel="stylesheet" href="public/css/MeuEstilo.css">
 
 
   <title>Projeto-Pizzaria</title>
