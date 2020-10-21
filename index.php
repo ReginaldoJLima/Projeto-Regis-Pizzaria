@@ -54,8 +54,8 @@ if (isset($_GET['pg'])) {
             break;
     }
 } else {
-    echo "página não Definida";
-    // include "paginas/inicial.php"
+    
+     include "paginas/inicial.php";
 }
 
 // fim páginas
