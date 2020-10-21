@@ -23,68 +23,147 @@
 
 </div>
 
-<!-- Caixas de promoções -->
+<!-- Barra promoção -->
+<div class="alert badge-danger text-center" role="alert">
+  <a href="#" class="alert-heading">
+    <h1>Promoções</h1>
+  </a>
+</div>
 
+<!-- Caixas de promoções -->
 <div class="container-fluid text-center">
   <div class="row">
     <div class="col-12">
-<div class="cor">
+      <div class="cor">
 
-  
-  <!-- promoção 1 -->
-  <div class="card-deck">
-    <div class="col-3">
-      <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-        <img src="public/img/antonieta.jpg" alt="">
-        <div class="card-body">
-          <h5 class="card-title">Antonieta</h5>
-          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-          <a href="#" class="btn btn-success">Pedir</a>
-        </div>
-      </div>
-    </div>
-    
-    <!-- promoção 2 -->
-    
-    <div class="col-3">
-      <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-        <img src="public/img/italianacomfrango.jpg" alt="">
-        <div class="card-body">
-          <h5 class="card-title">Itáliana com Frango</h5>
-          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-          <a href="#" class="btn btn-success">Pedir</a>
-        </div>
-      </div>
-    </div>
-    
-    <!-- promoção 3 -->
-    
-    <div class="col-3">
-      <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-        <img src="public/img/italiana.jpg" alt="">
-        <div class="card-body">
-          <h5 class="card-title">Itáliana</h5>
-          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-          <a href="#" class="btn btn-success">Pedir</a>
-        </div>
-      </div>
-    </div>
-    
-    <!-- promoção 4 -->
-    
-    <div class="col-3">
-      <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-        <img src="public/img/tomatesecocommajericao.jpg" alt="">
-        <div class="card-body">
-          <h5 class="card-title">Tomate seco e majericao</h5>
-          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-          <a href="#" class="btn btn-success">Pedir</a>
+
+        <!-- promoção 1 -->
+
+        <div class="my-5 card-deck">
+          <div class="col-3">
+            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
+              <img src="public/img/antonieta.jpg" alt="">
+              <div class="card-body">
+                <h5 class="card-title">Antonieta</h5>
+                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                <a href="#" class="btn btn-success">Pedir</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- promoção 2 -->
+
+          <div class="col-3">
+            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
+              <img src="public/img/italianacomfrango.jpg" alt="">
+              <div class="card-body">
+                <h5 class="card-title">Itáliana com Frango</h5>
+                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                <a href="#" class="btn btn-success">Pedir</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- promoção 3 -->
+
+          <div class="col-3">
+            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
+              <img src="public/img/italiana.jpg" alt="">
+              <div class="card-body">
+                <h5 class="card-title">Itáliana</h5>
+                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                <a href="#" class="btn btn-success">Pedir</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- promoção 4 -->
+
+          <div class="col-3">
+            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
+              <img src="public/img/tomatesecocommajericao.jpg" alt="">
+              <div class="card-body">
+                <h5 class="card-title">Tomate seco e majericao</h5>
+                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                <a href="#" class="btn btn-success">Pedir</a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </div>
 </div>
+
+<!-- Barra Cardapio -->
+
+<div class="alert badge-danger text-center" role="alert">
+  <a href="#" class="alert-heading">
+    <h1>Cardapio</h1>
+  </a>
 </div>
-</div>
-</div>
+
+<!-- Caixas de cardapio -->
+<div class="container-fluid text-center">
+  <div class="row">
+    <div class="col-12">
+      <div class="cor">
+
+
+        <!-- cardapio 1 -->
+
+        <div class="my-5 card-deck">
+          <div class="col-3">
+            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
+              <img src="public/img/antonieta.jpg" alt="">
+              <div class="card-body">
+                <h5 class="card-title">Antonieta</h5>
+                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                <a href="#" class="btn btn-success">Pedir</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- cardapio 2 -->
+
+          <div class="col-3">
+            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
+              <img src="public/img/italianacomfrango.jpg" alt="">
+              <div class="card-body">
+                <h5 class="card-title">Itáliana com Frango</h5>
+                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                <a href="#" class="btn btn-success">Pedir</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- cardapio 3 -->
+
+          <div class="col-3">
+            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
+              <img src="public/img/italiana.jpg" alt="">
+              <div class="card-body">
+                <h5 class="card-title">Itáliana</h5>
+                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                <a href="#" class="btn btn-success">Pedir</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- cardapio 4 -->
+
+          <div class="col-3">
+            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
+              <img src="public/img/tomatesecocommajericao.jpg" alt="">
+              <div class="card-body">
+                <h5 class="card-title">Tomate seco e majericao</h5>
+                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                <a href="#" class="btn btn-success">Pedir</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>

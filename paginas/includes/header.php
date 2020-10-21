@@ -49,7 +49,7 @@
         </li>
 
         <li class="nav-item active">
-          <a class="nav-link" href="index.php?pg=resevas">Resevas <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="index.php?pg=resevas">Reservas <span class="sr-only">(current)</span></a>
         </li>
 
         <li class="nav-item active">
