@@ -3,4 +3,12 @@
 
 <!-- Cardapio -->
 
+<!-- Barra Cardapio -->
+
+<div class="alert badge-danger text-center" role="alert">
+  <a href="#" class="alert-heading">
+    <h1>Cardapio</h1>
+  </a>
+</div>
+
 

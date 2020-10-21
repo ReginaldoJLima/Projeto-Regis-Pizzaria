@@ -46,7 +46,7 @@
               <div class="card-body">
                 <h5 class="card-title">Antonieta</h5>
                 <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-                <a href="#" class="btn btn-success">Pedir</a>
+                <a href="index.php?pg=delivery" class="btn btn-success">Pedir</a>
               </div>
             </div>
           </div>
