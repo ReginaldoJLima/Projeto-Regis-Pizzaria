@@ -21,11 +21,11 @@
 
 <!-- Imagem de Fundo da pagina -->
 
-<body background="public/img/xadres.jpg">
+<body background="public/img/fundo2.jpg">
 
   <!-- Primeiro Banner com imagem fixa -->
 
-  <div class="text-center"><img src="http://placehold.it/1200x200" alt="..." class=""></div>
+  <div class="text-center"><img src="public/img/logobanner.jpg" alt="..." class=""></div>
 
   <!-- Barra do Menu -->
   <nav class="navbar navbar-expand-lg navbar-dark badge-danger">
@@ -80,4 +80,4 @@
   </nav>
 
 
-  <!-- Fim da Barra de Menu -->
+<!-- Fim da Barra de Menu -->
