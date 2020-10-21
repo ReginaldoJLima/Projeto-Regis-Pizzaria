@@ -23,6 +23,8 @@
 
 </div>
 
+nova alteração no projeto
+
 <!-- Barra promoção -->
 <div class="alert badge-danger text-center" role="alert">
   <a href="#" class="alert-heading">
