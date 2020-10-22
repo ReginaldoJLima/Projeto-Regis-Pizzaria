@@ -1,6 +1,6 @@
 <!-- Banner imagem fixa sobre-->
 <div class="container-fluid text-center marginsBanner">
-    <img src="http://placehold.it/1140x200" alt="" class="img-fluid w-100">
+    <img src="public/img/sobre.jpg" alt="" class="img-fluid w-100">
 </div>
 
 <!-- início sobre -->
