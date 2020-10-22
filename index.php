@@ -32,8 +32,8 @@ if (isset($_GET['pg'])) {
             include "paginas/delivery.php";
             break;
 
-        case 'servicos':
-            include "paginas/servicos.php";
+        case 'pedidos':
+            include "paginas/pedidos.php";
             break;
 
         case 'unidades':
