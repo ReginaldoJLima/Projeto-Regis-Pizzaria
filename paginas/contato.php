@@ -1,5 +1,7 @@
 <!-- Banner imagem fixa contato-->
-<div class="container-fluid text-center"><img src="http://placehold.it/1140x200" alt="" class="img-fluid w-100"></div>
+<div class="container-fluid text-center marginsBanner">
+    <img src="public/img/contato.jpg" alt="" class="img-fluid w-100">
+</div>
 
 <!-- inicio contatos -->
 

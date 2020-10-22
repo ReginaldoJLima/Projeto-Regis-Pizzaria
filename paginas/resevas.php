@@ -1,2 +1,4 @@
-<!-- Banner imagem fixa sobre-->
-<div class="container-fluid text-center"><img src="http://placehold.it/1140x200" alt="" class="img-fluid w-100"></div>
+<!-- Banner imagem fixa reservas-->
+<div class="container-fluid text-center marginsBanner">
+    <img src="public/img/reservas.jpg" alt="" class="img-fluid w-100">
+</div>
