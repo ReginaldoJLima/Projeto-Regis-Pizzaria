@@ -42,7 +42,7 @@
     </div>
 
     <button type="submit" class="btn btn-success my-3">Enviar Pedido</button>
-    <button type="submit" href="index.php?pg=cardapio" class="btn btn-danger my-3">Volta ao Cardapio</button>
+    <a href="index.php?pg=cardapio" class="btn btn-danger my-3">Volta ao Cardapio</a>
   </form>
 </div>
 </div>
