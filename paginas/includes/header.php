@@ -57,7 +57,7 @@
         </li>
 
         <li class="nav-item active">
-          <a class="nav-link" href="index.php?pg=servicos">Serviços <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="index.php?pg=pedidos">Meus Pedidos <span class="sr-only">(current)</span></a>
         </li>
 
         <li class="nav-item active">

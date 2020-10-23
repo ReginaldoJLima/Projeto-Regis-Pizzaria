@@ -1,167 +1,163 @@
-<!-- Slide  -->
-
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="public/img/p1.jpg" class="d-block w-100" alt="...">
+      <img class="d-block w-100" src="http://placehold.it/1400x500" alt="Primeiro Slide">
     </div>
     <div class="carousel-item">
-      <img src="public/img/p2.jpg" class="d-block w-100" alt="...">
+      <img class="d-block w-100" src="http://placehold.it/1400x500" alt="Segundo Slide">
     </div>
     <div class="carousel-item">
-      <img src="public/img/p3.jpg" class="d-block w-100" alt="...">
+      <img class="d-block w-100" src="http://placehold.it/1400x500" alt="Terceiro Slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
+    <span class="sr-only">Anterior</span>
   </a>
   <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
+    <span class="sr-only">Próximo</span>
   </a>
-
 </div>
 
-<!-- Barra promoção -->
+<!-- Pormoções -->
+
+
 <div class="alert badge-danger text-center" role="alert">
   <a href="#" class="alert-heading">
-    <h1>Promoções</h1>
+    <h1>Promoção</h1>
   </a>
 </div>
 
-<!-- Caixas de promoções -->
+<!-- ................... -->
+
+<!-- Cardapio 1-->
+
 <div class="container-fluid text-center">
-  <div class="row">
-    <div class="col-12">
-      <div class="cor">
 
+  <div class="card-group my-5 mx-3">
+    <div class="mx-3">
+      <div class="card bg-warning" style="width: 18rem;">
+        <img class="card-img-top" src="public/img/10.jpg" alt="Imagem de capa do card">
+        <div class="card-body">
+          <h5 class="card-title">Título do card</h5>
+          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
 
-        <!-- promoção 1 -->
+          <!-- Formulario Bebidas -->
+          <div class="form-group col-5md-6">
+            <label for="inputEstado">Bebidas</label>
+            <select id="inputEstado" class="form-control">
+              <option selected>Escolha sua bebida</option>
+              <option>Refrigerante Coca-Cola 2L</option>
+              <option>Refrigerante Fanta Guarana 2L</option>
+              <option>Refrigerante Fanta Laranja 2L</option>
+              <option>Refrigerante Fanta Uva 2L</option>
+              <option>Refrigerante Soda</option>
+              <option>Suco-Abacaxi 1L</option>
+              <option>Suco-Laranja 1L</option>
+              <option>Suco-Acerola 1L</option>
+              <option>Suco-Goiaba 1L</option>
 
-        <div class="my-5 card-deck">
-          <div class="col-3">
-            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-              <img src="public/img/antonieta.jpg" alt="">
-              <div class="card-body">
-                <h5 class="card-title">Antonieta</h5>
-                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-                <a href="index.php?pg=delivery" class="btn btn-success">Pedir</a>
-              </div>
-            </div>
+            </select>
           </div>
 
-          <!-- promoção 2 -->
-
-          <div class="col-3">
-            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-              <img src="public/img/italianacomfrango.jpg" alt="">
-              <div class="card-body">
-                <h5 class="card-title">Itáliana com Frango</h5>
-                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-                <a href="#" class="btn btn-success">Pedir</a>
-              </div>
-            </div>
-          </div>
-
-          <!-- promoção 3 -->
-
-          <div class="col-3">
-            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-              <img src="public/img/italiana.jpg" alt="">
-              <div class="card-body">
-                <h5 class="card-title">Itáliana</h5>
-                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-                <a href="#" class="btn btn-success">Pedir</a>
-              </div>
-            </div>
-          </div>
-
-          <!-- promoção 4 -->
-
-          <div class="col-3">
-            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-              <img src="public/img/tomatesecocommajericao.jpg" alt="">
-              <div class="card-body">
-                <h5 class="card-title">Tomate seco e majericao</h5>
-                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-                <a href="#" class="btn btn-success">Pedir</a>
-              </div>
-            </div>
-          </div>
+          <a href="index.php?pg=pedidos" class="btn btn-success">Pedir</a>
         </div>
       </div>
     </div>
-  </div>
-</div>
 
-<!-- Barra Cardapio -->
+    <!-- Cardapio 2-->
 
-<div class="alert badge-danger text-center" role="alert">
-  <a href="#" class="alert-heading">
-    <h1>Cardapio</h1>
-  </a>
-</div>
+    <div class="mx-3">
+      <div class="card bg-warning" style="width: 18rem;">
+        <img class="card-img-top" src="public/img/11.jpg" alt="Imagem de capa do card">
+        <div class="card-body">
+          <h5 class="card-title">Título do card</h5>
+          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
 
-<!-- Caixas de cardapio -->
-<div class="container-fluid text-center">
-  <div class="row">
-    <div class="col-12">
-      <div class="cor">
+          <!-- Formulario Bebidas -->
+          <div class="form-group col-5md-6">
+            <label for="inputEstado">Bebidas</label>
+            <select id="inputEstado" class="form-control">
+              <option selected>Escolha sua bebida</option>
+              <option>Refrigerante Coca-Cola 2L</option>
+              <option>Refrigerante Fanta Guarana 2L</option>
+              <option>Refrigerante Fanta Laranja 2L</option>
+              <option>Refrigerante Fanta Uva 2L</option>
+              <option>Refrigerante Soda</option>
+              <option>Suco-Abacaxi 1L</option>
+              <option>Suco-Laranja 1L</option>
+              <option>Suco-Acerola 1L</option>
+              <option>Suco-Goiaba 1L</option>
 
-
-        <!-- cardapio 1 -->
-
-        <div class="my-5 card-deck">
-          <div class="col-3">
-            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-              <img src="public/img/antonieta.jpg" alt="">
-              <div class="card-body">
-                <h5 class="card-title">Antonieta</h5>
-                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-                <a href="#" class="btn btn-success">Pedir</a>
-              </div>
-            </div>
+            </select>
           </div>
 
-          <!-- cardapio 2 -->
+          <a href="index.php?pg=pedidos" class="btn btn-success">Pedir</a>
+        </div>
+      </div>
+    </div>
 
-          <div class="col-3">
-            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-              <img src="public/img/italianacomfrango.jpg" alt="">
-              <div class="card-body">
-                <h5 class="card-title">Itáliana com Frango</h5>
-                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-                <a href="#" class="btn btn-success">Pedir</a>
-              </div>
-            </div>
+    <!-- Cardapio 3-->
+
+    <div class="mx-3">
+      <div class="card bg-warning" style="width: 18rem;">
+        <img class="card-img-top" src="public/img/12.jpg" alt="Imagem de capa do card">
+        <div class="card-body">
+          <h5 class="card-title">Título do card</h5>
+          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+
+          <!-- Formulario Bebidas -->
+          <div class="form-group col-5md-6">
+            <label for="inputEstado">Bebidas</label>
+            <select id="inputEstado" class="form-control">
+              <option selected>Escolha sua bebida</option>
+              <option>Refrigerante Coca-Cola 2L</option>
+              <option>Refrigerante Fanta Guarana 2L</option>
+              <option>Refrigerante Fanta Laranja 2L</option>
+              <option>Refrigerante Fanta Uva 2L</option>
+              <option>Refrigerante Soda</option>
+              <option>Suco-Abacaxi 1L</option>
+              <option>Suco-Laranja 1L</option>
+              <option>Suco-Acerola 1L</option>
+              <option>Suco-Goiaba 1L</option>
+
+            </select>
           </div>
 
-          <!-- cardapio 3 -->
+          <a href="index.php?pg=pedidos" class="btn btn-success">Pedir</a>
+        </div>
+      </div>
+    </div>
 
-          <div class="col-3">
-            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-              <img src="public/img/italiana.jpg" alt="">
-              <div class="card-body">
-                <h5 class="card-title">Itáliana</h5>
-                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-                <a href="#" class="btn btn-success">Pedir</a>
-              </div>
-            </div>
+    <!-- Cardapio 4-->
+
+    <div class="mx-3">
+      <div class="card bg-warning" style="width: 18rem;">
+        <img class="card-img-top" src="public/img/13.jpg" alt="Imagem de capa do card">
+        <div class="card-body">
+          <h5 class="card-title">Título do card</h5>
+          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+
+          <!-- Formulario Bebidas -->
+          <div class="form-group col-5md-6">
+            <label for="inputEstado">Bebidas</label>
+            <select id="inputEstado" class="form-control">
+              <option selected>Escolha sua bebida</option>
+              <option>Refrigerante Coca-Cola 2L</option>
+              <option>Refrigerante Fanta Guarana 2L</option>
+              <option>Refrigerante Fanta Laranja 2L</option>
+              <option>Refrigerante Fanta Uva 2L</option>
+              <option>Refrigerante Soda</option>
+              <option>Suco-Abacaxi 1L</option>
+              <option>Suco-Laranja 1L</option>
+              <option>Suco-Acerola 1L</option>
+              <option>Suco-Goiaba 1L</option>
+
+            </select>
           </div>
 
-          <!-- cardapio 4 -->
-
-          <div class="col-3">
-            <div class="card text-white bg-warning mb-3" style="width: 18rem;">
-              <img src="public/img/tomatesecocommajericao.jpg" alt="">
-              <div class="card-body">
-                <h5 class="card-title">Tomate seco e majericao</h5>
-                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-                <a href="#" class="btn btn-success">Pedir</a>
-              </div>
-            </div>
-          </div>
+          <a href="index.php?pg=pedidos" class="btn btn-success">Pedir</a>
         </div>
       </div>
     </div>
