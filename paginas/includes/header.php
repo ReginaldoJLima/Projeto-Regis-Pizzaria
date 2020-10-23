@@ -12,6 +12,9 @@
   <!-- icomoom -->
   <link rel="stylesheet" href="public/css/icomoom.css">
 
+  <!-- Jssor Slide-->
+  <script src="public/js/jssor.slider-28.0.0.min.js" type="text/javascript"></script>
+
   <!-- Meu css -->
   <link rel="stylesheet" href="public/css/MeuEstilo.css">
 
@@ -80,4 +83,4 @@
   </nav>
 
 
-<!-- Fim da Barra de Menu -->
+  <!-- Fim da Barra de Menu -->
